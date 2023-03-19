@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/LAB_1/LAB_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LAB_2/LAB_2_ZAD_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LAB_2/LAB_2_ZAD_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LAB_2/LAB_2_ZAD_5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LAB_2/LAB_2_ZAD_6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LAB_2/LAB_2_ZAD_7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LAB_3/LAB_3_ZAD_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calc/kalkulator" vcs="Git" />
+  </component>
+</project>
